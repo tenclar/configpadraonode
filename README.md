@@ -3,4 +3,4 @@
 
 ---
 
-Feito com Rocketseat by Tenclar
+Feito por Tenclar Valus
